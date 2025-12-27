@@ -22,3 +22,11 @@ kitty文件夹
 ～/.oh-my-zsh
 ```
 
+
+## 修改kde-dolphin默认终端
+vi ~/.config/kdeglobals
+```
+[General]
+TerminalApplication=gnome-terminal
+```
+
